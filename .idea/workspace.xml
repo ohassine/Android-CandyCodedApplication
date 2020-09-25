@@ -151,4 +151,14 @@
     </task>
     <servers />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="-1365" y="114" key="CommitChangelistDialog2" timestamp="1601031067296">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1365" y="114" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601031067296" />
+    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601031115363">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601031115363" />
+  </component>
 </project>
